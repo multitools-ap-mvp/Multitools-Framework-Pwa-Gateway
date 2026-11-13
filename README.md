@@ -1,8 +1,20 @@
 # Multitools-Framework-Pwa-Gateway
 
-" Invite/Users Only Documentation repo for Apex Multi Tools Secure Communication Framework Gateway
+**Gateway App For ApexMultiTools Framework**
 
-**Current Version V0.4.0**
+**Connecting You To All Our Apps From 1App On All Devices!**
+
+**Active Tools**
+
+* ApexMultiTools Secure Communication
+* Captive Portals
+* LLM Router
+* Apex Esport Betting Platform
+* ApexAmstaff's Home Server Clone Setup
+* MultiTools Ticket Generator
+* ApexMultiTools PDF Editor
+  * **Comming Soon**
+  * App Clone Framework
 
 ---
 
